@@ -1,2 +1,2 @@
 # Blackjack-in-Assembly
-MIPS Assembly
+Blackjack Simulator in MIPS Assembly
